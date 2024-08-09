@@ -1,0 +1,5 @@
+Devops Project 1 :
+
+CICD Implementation of microservice/containerids on ECS
+
+We have used codecommit , codebuild , codepipeline , python code in that project.
